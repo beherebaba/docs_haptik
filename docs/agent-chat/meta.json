@@ -1,17 +1,23 @@
 {
   "sidebar": {
-    "Introduction": ["index"],
-    "The Interface": [
-      "admin_panel",
-      "athena_assignment",
-      "athena_lhs",
-      "athena_rhs",
-      "athena_smart_actions"
+    "Getting Started": [
+      "index",
+      "chatleads",
+      "chatagents",
     ],
     "Guides": [
-      "claiming-and-closing"
+      "interface-and-keyboard",
+      "claiming-and-closing",
+      "adding-agents-permissions",
+      "custom-tools-intro"
     ],
-    "Custom Tools": ["custom-tools-intro", "custom-tools-how", "custom-tools-data-communication"]
+    "Resources": [
+      "action-toolbars",
+      "smart-actions",
+      "teams",
+      "businesses",
+      "analytics"
+    ],
   },
   "headerLink": {
     "doc": "index",
